@@ -1,6 +1,6 @@
 # Arithmetic Operators
 
-a = 3
-b = 6
+a = 4
+b = 8
 result = a * b
 print(result)
